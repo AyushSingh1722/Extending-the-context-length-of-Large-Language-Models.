@@ -1,4 +1,4 @@
-# Extending Context Length of Large Language Models
+# Extending the Context Length of Large Language Models
 
 ## Overview
 
