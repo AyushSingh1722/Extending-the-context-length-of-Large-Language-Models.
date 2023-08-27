@@ -64,6 +64,6 @@ Contributions to this project are welcome! If you have new ideas, techniques, or
 
 ## Contact
 
-For any questions or inquiries related to this project, please contact [Ayush Singh] at [ayushsingh@iisc.ac.in].
+For any questions or inquiries related to this project, please contact me at ayushsingh@iisc.ac.in.
 
 Happy coding and extending context length in language models!
