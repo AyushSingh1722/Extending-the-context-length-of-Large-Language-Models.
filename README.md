@@ -45,7 +45,7 @@ Throughout this project, I have referred to several papers and blogs that provid
 
 - [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864): This paper presents RoFormer, a Transformer variant that incorporates Rotary Position Embedding to extend the context window. RoFormer has shown promising results in handling longer sequences of text, making it a crucial reference for our project.
 
-- [Extending Context Window of Large Language Models via Positional Interpolation](https://arxiv.org/abs/2306.15595): This blog post discusses practical techniques for extending the context window of large language models using positional interpolation. It offers insights and ideas that we have incorporated into our project's approach.
+- [Extending Context Window of Large Language Models via Positional Interpolation](https://arxiv.org/abs/2306.15595): This paper discusses practical techniques for extending the context window of large language models using positional interpolation. It offers insights and ideas that we have incorporated into our project's approach.
 
 Please refer to these sources for in-depth explanations and background information on context length extension techniques in language models.
 
