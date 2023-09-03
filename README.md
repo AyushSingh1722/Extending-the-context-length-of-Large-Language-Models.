@@ -33,6 +33,7 @@ This repository is organized into folders, each focusing on a specific aspect or
 - **Rotary Positional Encoding**: In this section, we delve into Rotary Positional Encoding, a novel technique designed to improve positional encoding in transformers. We'll provide code examples and explanations to demonstrate how rotary embeddings can enhance context length capabilities.
 
 - **Extending Context Length using Position Interpolation**: Position Interpolation is a method to extend the context length of language models. We'll discuss the theory behind position interpolation and provide practical implementations to effectively increase context length.
+
 - **NTK Aware Scaled Rotary Embeddings**: NTK Aware Scaled Rotary Embeddings is an advanced technique for handling long-context sequences. This section will explore the adaptability and effectiveness of NTK-aware embeddings in addressing context length limitations in language models.
 
 Feel free to explore these folders to understand and experiment with the various techniques we are investigating.
